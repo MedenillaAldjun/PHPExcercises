@@ -8,10 +8,10 @@
 <body>
 <?php
         echo "<table>";
-        for($row=1; $row <= 7; $row++) {
+        for($row = 1; $row <= 7; $row++) {
             echo "<tr>\n";
-            for($col = 1; $col <= 7; $col++) {
-                $x = $col * $row;
+            for($colm = 1; $colm <= 7; $colm++) {
+                $x = $colm * $row;
                 echo "<td> $x </td>\n";   
             } echo "</tr>";
         } echo "</table>";
