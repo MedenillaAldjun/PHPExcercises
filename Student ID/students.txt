@@ -1,0 +1,37 @@
+
+Array
+(
+    [0] => Array
+        (
+            [First_Name] => Aldjun
+            [Last_Name] => Medenilla
+            [Middle_Initial] => R
+            [ID_Number] => 12312312312
+            [Department] => CITCS
+            [Course] => BSIT
+            [Year_Level] => 1
+            [Birthdate] => 2022-10-17
+            [Address] => Baguio City
+            [Guardian_Name] => Maria Clara
+            [Guardian_Contact_Number] => 09656514613
+        )
+
+)
+Array
+(
+    [0] => Array
+        (
+            [First_Name] => Rose Ann
+            [Last_Name] => Medenilla
+            [Middle_Initial] => R
+            [ID_Number] => 20-1460-547
+            [Department] => CAS
+            [Course] => BSCRIM
+            [Year_Level] => 3
+            [Birthdate] => 2022-10-18
+            [Address] => Bakakeng Central
+            [Guardian_Name] => Theresa Divina
+            [Guardian_Contact_Number] => 09945631232
+        )
+
+)
